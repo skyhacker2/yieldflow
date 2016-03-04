@@ -1,6 +1,12 @@
 # yieldflow
 > Asynchronous becomes synchronous with the yield
 
+## Install
+
+```
+npm install yieldflow
+```
+
 ## Usage
 
 ```
